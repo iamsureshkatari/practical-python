@@ -26,3 +26,11 @@ When you start Python, you get an interactive mode where you can experiment.
 If you start typing statements, they will run immediately. There is no edit/compile/run/debug cycle.
 
 This so-called read-eval-print-loop (or REPL) is very useful for debugging and exploration.
+
+Python is dynamically typed. The perceived “type” of a variable might change as a program executes depending on the current value assigned to it.
+
+Python is case sensitive. Upper and lower-case letters are considered different letters. These are all different variables:
+
+name = 'Jake'
+Name = 'Elwood'
+NAME = 'Guido'
