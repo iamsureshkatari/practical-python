@@ -34,3 +34,4 @@ Python is case sensitive. Upper and lower-case letters are considered different 
 name = 'Jake'
 Name = 'Elwood'
 NAME = 'Guido'
+
